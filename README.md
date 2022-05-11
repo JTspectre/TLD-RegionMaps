@@ -1,5 +1,4 @@
-.png images of charcoal maps for The Long Dark
-
+.png images of charcoal maps in The Long Dark.
 For use with Santana's MyPictures Mod
 
 ## Installation
@@ -7,6 +6,5 @@ For use with Santana's MyPictures Mod
 * Follow stmSantana's instructions to add these images in-game.
 
 ## Special thanks to:
-stmSantana, for InteriorWallDecorations/MyPictures Mod
-
-The Long Dark Modding discord server
+* stmSantana, for InteriorWallDecorations/MyPictures Mod
+* [The Long Dark Modding discord server](https://discord.gg/DmEZK4XZ3g)
